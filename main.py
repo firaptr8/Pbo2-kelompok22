@@ -52,7 +52,7 @@ class Gui(interface.MyFrame1):
         byr.ShowModal()
 
 
-app = wx.App()
-frame = Gui(parent=None)
-frame.Show()
-app.MainLoop() 
+# app = wx.App()
+# frame = Gui(parent=None)
+# frame.Show()
+# app.MainLoop() 
